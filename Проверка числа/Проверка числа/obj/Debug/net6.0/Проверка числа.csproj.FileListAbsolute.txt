@@ -1,0 +1,14 @@
+C:\Users\Владимир Пирогов\Documents\Программы\Проверка числа\Проверка числа\bin\Debug\net6.0\Проверка числа.exe
+C:\Users\Владимир Пирогов\Documents\Программы\Проверка числа\Проверка числа\bin\Debug\net6.0\Проверка числа.deps.json
+C:\Users\Владимир Пирогов\Documents\Программы\Проверка числа\Проверка числа\bin\Debug\net6.0\Проверка числа.runtimeconfig.json
+C:\Users\Владимир Пирогов\Documents\Программы\Проверка числа\Проверка числа\bin\Debug\net6.0\Проверка числа.dll
+C:\Users\Владимир Пирогов\Documents\Программы\Проверка числа\Проверка числа\bin\Debug\net6.0\Проверка числа.pdb
+C:\Users\Владимир Пирогов\Documents\Программы\Проверка числа\Проверка числа\obj\Debug\net6.0\Проверка числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимир Пирогов\Documents\Программы\Проверка числа\Проверка числа\obj\Debug\net6.0\Проверка числа.AssemblyInfoInputs.cache
+C:\Users\Владимир Пирогов\Documents\Программы\Проверка числа\Проверка числа\obj\Debug\net6.0\Проверка числа.AssemblyInfo.cs
+C:\Users\Владимир Пирогов\Documents\Программы\Проверка числа\Проверка числа\obj\Debug\net6.0\Проверка числа.csproj.CoreCompileInputs.cache
+C:\Users\Владимир Пирогов\Documents\Программы\Проверка числа\Проверка числа\obj\Debug\net6.0\Проверка числа.dll
+C:\Users\Владимир Пирогов\Documents\Программы\Проверка числа\Проверка числа\obj\Debug\net6.0\refint\Проверка числа.dll
+C:\Users\Владимир Пирогов\Documents\Программы\Проверка числа\Проверка числа\obj\Debug\net6.0\Проверка числа.pdb
+C:\Users\Владимир Пирогов\Documents\Программы\Проверка числа\Проверка числа\obj\Debug\net6.0\Проверка числа.genruntimeconfig.cache
+C:\Users\Владимир Пирогов\Documents\Программы\Проверка числа\Проверка числа\obj\Debug\net6.0\ref\Проверка числа.dll
